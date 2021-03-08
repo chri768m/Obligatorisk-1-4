@@ -1,0 +1,9 @@
+C:\code\obligatorisk opgave beer\obligatorisk opgave beer\bin\Debug\netcoreapp3.1\obligatorisk opgave beer.deps.json
+C:\code\obligatorisk opgave beer\obligatorisk opgave beer\bin\Debug\netcoreapp3.1\obligatorisk opgave beer.dll
+C:\code\obligatorisk opgave beer\obligatorisk opgave beer\bin\Debug\netcoreapp3.1\obligatorisk opgave beer.pdb
+C:\code\obligatorisk opgave beer\obligatorisk opgave beer\obj\Debug\netcoreapp3.1\obligatorisk opgave beer.csprojAssemblyReference.cache
+C:\code\obligatorisk opgave beer\obligatorisk opgave beer\obj\Debug\netcoreapp3.1\obligatorisk opgave beer.csproj.CoreCompileInputs.cache
+C:\code\obligatorisk opgave beer\obligatorisk opgave beer\obj\Debug\netcoreapp3.1\obligatorisk opgave beer.AssemblyInfoInputs.cache
+C:\code\obligatorisk opgave beer\obligatorisk opgave beer\obj\Debug\netcoreapp3.1\obligatorisk opgave beer.AssemblyInfo.cs
+C:\code\obligatorisk opgave beer\obligatorisk opgave beer\obj\Debug\netcoreapp3.1\obligatorisk opgave beer.dll
+C:\code\obligatorisk opgave beer\obligatorisk opgave beer\obj\Debug\netcoreapp3.1\obligatorisk opgave beer.pdb
